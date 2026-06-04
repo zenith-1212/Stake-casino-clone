@@ -44,17 +44,22 @@ stake-full/
 
 ---
 
-## 🚀 How to Run
+🚀 Get a Premium Stake Clone at a Very Affordable Price!
 
-### Option 1 — Frontend Only (No Backend, Instant)
+Looking for a fully functional Stake-style casino platform with clean code, modern UI, and complete source code access?
 
-Just open the HTML files directly in your browser — no server needed.
+✅ Full source code included
+✅ Easy setup and deployment
+✅ Modern Stake-inspired design
+✅ Casino games integration support
+✅ Admin panel included
+✅ Detailed code explanation and guidance provided
+✅ Customization support available
 
-1. Open the `frontend/` folder
-2. Double-click `index.html` OR open it in your browser:
-   - Windows: Right-click → "Open with" → Chrome/Edge/Firefox
-   - Mac: Double-click in Finder
-   - Or drag the file into your browser
+If you're interested in getting a high-quality Stake clone at a very competitive price, contact me on Telegram:
 
-> All games work fully offline using `localStorage` for balance. No backend required for gameplay.
+📩 @zenith_1212
+
+Serious buyers only. Message me for demos, features, pricing, and complete project details.
+
 
